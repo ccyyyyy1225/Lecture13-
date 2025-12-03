@@ -22,11 +22,10 @@
 
 ## 📁 專案結構
 
-```text
 .
 ├─ app.py                        # Streamlit 主程式（讀取並呈現電影資料）
 ├─ movie_info_from_10pages.csv   # 爬下來的電影資訊（10 頁）
-├─ 物聯網HW3.ipynb                # 作業原始 Jupyter Notebook（爬蟲 & 前處理）
+├─ movie_info.ipynb                # 作業原始 Jupyter Notebook（爬蟲 & 前處理）
 ├─ requirements.txt              # 專案所需套件
 └─ .streamlit/
    └─ config.toml                # （選配）Streamlit 主題設定
