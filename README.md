@@ -22,6 +22,7 @@
 
 ## 📁 專案結構
 
+```text
 .
 ├─ app.py                        # Streamlit 主程式（讀取並呈現電影資料）
 ├─ movie_info_from_10pages.csv   # 爬下來的電影資訊（10 頁）
