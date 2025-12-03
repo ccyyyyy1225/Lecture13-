@@ -14,7 +14,7 @@
 
 本專案已部署於 Streamlit Community Cloud：  
 
-👉 [點此開啟 Demo](https://你的-app-名稱.streamlit.app/](https://euenxxczvthvj9s9kwbeig.streamlit.app/)  
+👉 [點此開啟 Demo]([https://你的-app-名稱.streamlit.app/](https://euenxxczvthvj9s9kwbeig.streamlit.app/])  
 
 > 若無法開啟，可能是伺服器尚未喚醒，請稍後再重新整理一次頁面。
 
